@@ -1,0 +1,11 @@
+.nav_item{
+   display: inline-block;
+    background: white;
+    margin: 0;
+    width: 350px;
+    height: 350px;
+    border: 5px black;
+    text-align: center;
+    font-weight: bold;
+}
+ 
